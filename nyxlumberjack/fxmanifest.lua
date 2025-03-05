@@ -7,8 +7,8 @@ vorp_checker 'yes'
 vorp_name '^5MMS-Lumberjack ^4version Check^3'
 vorp_github 'https://github.com/RetryR1v2/mms-lumberjack'
 
-description 'mms-lumberjack'
-author 'Markus Mueller'
+description 'nyxlumberjack'
+author 'Ben Hooter'
 
 client_scripts {
 	'client/client.lua'
