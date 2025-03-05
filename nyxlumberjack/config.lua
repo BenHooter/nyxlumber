@@ -67,7 +67,6 @@ Config.TownRestriction = true
 Config.Towns = {  
     { Town = vector3(-281.13, 715.79, 113.93),      TownDistance = 250,  TownName = 'Valentine' }, -- Valentine
     { Town = vector3(1341.21, -1277.12, 76.94),     TownDistance = 200,  TownName = 'Rhodes' }, -- Rhodes
--- Strawberry
     { Town = vector3(-850.22, -1298.28, 43.37),     TownDistance = 300,  TownName = 'Blackwater' }, -- Blackwater
     { Town = vector3(2919.48, 1368.80, 45.24),      TownDistance = 400,  TownName = 'Annesburg' }, -- Annesburg
     { Town = vector3(2962.95, 547.93, 44.50),       TownDistance = 210,  TownName = 'Van Horn' }, -- Van Horn
