@@ -1,4 +1,4 @@
 # nyxlumber
 
 
-lumber job
+lumber job redm vorpcore
